@@ -99,12 +99,12 @@ body {
   left: calc(50% - 3.5vw);
 }
 
-/*.intersection:nth-child(6) {
+.intersection:nth-child(6) {
   bottom: -7.5vw;
   right: calc(50% - 3.5vw);
 }
 
-.vehicle {
+/*.vehicle {
   position: absolute;
   z-index: 1;
   top: -3.5vw;
