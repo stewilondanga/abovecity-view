@@ -104,7 +104,7 @@ body {
   right: calc(50% - 3.5vw);
 }
 
-/*.vehicle {
+.vehicle {
   position: absolute;
   z-index: 1;
   top: -3.5vw;
@@ -116,7 +116,7 @@ body {
   animation: drive 16s linear infinite;
 }
 
-.double-wide .vehicle {
+/*.double-wide .vehicle {
   animation: drive-wide 16s linear infinite;
 }
 
