@@ -120,11 +120,11 @@ body {
   animation: drive-wide 16s linear infinite;
 }
 
-/*.block .vehicle:nth-child(2) {
+.block .vehicle:nth-child(2) {
   animation-delay: -8s;
 }
 
-.block:not(.double-wide) + .block:not(.double-wide) .vehicle:nth-child(1) {
+/*.block:not(.double-wide) + .block:not(.double-wide) .vehicle:nth-child(1) {
   animation-delay: -1s;
 }
 
