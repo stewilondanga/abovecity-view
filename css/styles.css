@@ -42,7 +42,7 @@ body {
   perspective-origin: center;
 }
 
-/*.block {
+.block {
   position: relative;
   width: calc(50vw - 12vw);
   height: calc(50vw - 12vw);
@@ -56,7 +56,7 @@ body {
     0 0 0 8vw #fff;
 }
 
-.block.double-wide {
+/*.block.double-wide {
   width: 100vw;
 }
 
