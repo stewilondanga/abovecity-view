@@ -191,8 +191,11 @@ body {
     transform: translate(85.875vw, 38.125vw) rotate(180deg);
   }
 
-  /*63% { transform: translate(1.75vw, 38.125vw) rotate(180deg); }
-  66% { transform: translate(1.75vw, 38.125vw) rotate(270deg); }
+  63% {
+    transform: translate(1.75vw, 38.125vw) rotate(180deg);
+  }
+
+  /*66% { transform: translate(1.75vw, 38.125vw) rotate(270deg); }
   97% { transform: translate(1.75vw, 0) rotate(270deg); }
   100% { transform: translate(1.75vw, 0) rotate(360deg); }
 }
