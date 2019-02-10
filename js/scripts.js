@@ -10,12 +10,12 @@ var navigate = (function() {
 function generateBuildings() {
   var buildings = $('.buildings');
 
-  /*  buildings.each(function(index) {
-      var self = $(this),
+  buildings.each(function(index) {
+        var self = $(this),
           parentBlock = self.parent('.block'),
           buildingsLength = (parentBlock.hasClass('double-wide')) ? 18 : 9;
 
-      for (var i = 0; i < buildingsLength; i++) {
+        /*  for (var i = 0; i < buildingsLength; i++) {
         var randomDepth = Math.floor(Math.random() * 10) + 5,
             building = $('<div class="building" data-depth="' + randomDepth + '">');
 
