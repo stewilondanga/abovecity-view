@@ -15,11 +15,11 @@ function generateBuildings() {
           parentBlock = self.parent('.block'),
           buildingsLength = (parentBlock.hasClass('double-wide')) ? 18 : 9;
 
-        /*  for (var i = 0; i < buildingsLength; i++) {
-        var randomDepth = Math.floor(Math.random() * 10) + 5,
+        for (var i = 0; i < buildingsLength; i++) {
+          var randomDepth = Math.floor(Math.random() * 10) + 5,
             building = $('<div class="building" data-depth="' + randomDepth + '">');
 
-        self.append(building);
+          /*self.append(building);
       }
     });
   }
