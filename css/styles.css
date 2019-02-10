@@ -199,8 +199,11 @@ body {
     transform: translate(1.75vw, 38.125vw) rotate(270deg);
   }
 
-  /*97% { transform: translate(1.75vw, 0) rotate(270deg); }
-  100% { transform: translate(1.75vw, 0) rotate(360deg); }
+  97% {
+    transform: translate(1.75vw, 0) rotate(270deg);
+  }
+
+  /*100% { transform: translate(1.75vw, 0) rotate(360deg); }
 }
 
 .buildings {
