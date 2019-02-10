@@ -203,10 +203,12 @@ body {
     transform: translate(1.75vw, 0) rotate(270deg);
   }
 
-  /*100% { transform: translate(1.75vw, 0) rotate(360deg); }
+  100% {
+    transform: translate(1.75vw, 0) rotate(360deg);
+  }
 }
 
-.buildings {
+/*.buildings {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
