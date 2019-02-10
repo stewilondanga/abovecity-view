@@ -10,6 +10,12 @@ html {
   margin: 0;
 }
 
+body {
+  height: 100vh;
+  overflow: hidden;
+  background-color: #eee;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -35,11 +41,6 @@ html {
 
 
 
-body {
-  height: 100vh;
-  overflow: hidden;
-  background-color: #eee;
-}
 
 .city {
   display: flex;
