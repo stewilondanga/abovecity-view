@@ -141,8 +141,11 @@ body {
     transform: translate(39.875vw, 0) rotate(0);
   }
 
-  /*  33% { transform: translate(39.875vw, 0) rotate(90deg); }
-  42% { transform: translate(39.875vw, 38.125vw) rotate(90deg); }
+  33% {
+    transform: translate(39.875vw, 0) rotate(90deg);
+  }
+
+  /*42% { transform: translate(39.875vw, 38.125vw) rotate(90deg); }
   45% { transform: translate(39.875vw, 38.125vw) rotate(180deg); }
   63% { transform: translate(1.875vw, 38.125vw) rotate(180deg); }
   66% { transform: translate(1.75vw, 38.125vw) rotate(270deg); }
