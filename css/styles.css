@@ -31,7 +31,6 @@ body {
   height: 1.5em;
 }
 
-/*
 .city {
   display: flex;
   flex-wrap: wrap;
@@ -43,7 +42,7 @@ body {
   perspective-origin: center;
 }
 
-.block {
+/*.block {
   position: relative;
   width: calc(50vw - 12vw);
   height: calc(50vw - 12vw);
