@@ -94,12 +94,12 @@ body {
   right: -7.5vw;
 }
 
-/*.intersection:nth-child(5) {
+.intersection:nth-child(5) {
   top: -7.5vw;
   left: calc(50% - 3.5vw);
 }
 
-.intersection:nth-child(6) {
+/*.intersection:nth-child(6) {
   bottom: -7.5vw;
   right: calc(50% - 3.5vw);
 }
