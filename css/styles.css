@@ -56,11 +56,11 @@ body {
     0 0 0 8vw #fff;
 }
 
-/*.block.double-wide {
+.block.double-wide {
   width: 100vw;
 }
 
-.intersection {
+/*.intersection {
   position: absolute;
   display: block;
   width: 7vw;
