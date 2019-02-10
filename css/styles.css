@@ -227,19 +227,19 @@ body {
     0 0 0.25vw rgba(0, 0, 0, 0.1);
 }
 
-/*.building .extrusion {
+.building .extrusion {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
   background-color: #eee;
-  border: 0.5vw solid rgba(0,0,0,0.075);
-  border-top-color: rgba(0,0,0,0.05);
-  border-bottom-color: rgba(0,0,0,0.05);
+  border: 0.5vw solid rgba(0, 0, 0, 0.075);
+  border-top-color: rgba(0, 0, 0, 0.05);
+  border-bottom-color: rgba(0, 0, 0, 0.05);
 }
 
-.building .extrusion:last-child {
+/*.building .extrusion:last-child {
   background-color: #fff;
   border: none;
   background-image:
