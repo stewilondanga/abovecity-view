@@ -170,9 +170,12 @@ body {
   }
 }
 
-/*@keyframes drive-wide {
-  0% { transform: translate(1.875vw, 0) rotate(0); }
-  30% { transform: translate(85.875vw, 0) rotate(0); }
+@keyframes drive-wide {
+  0% {
+    transform: translate(1.875vw, 0) rotate(0);
+  }
+
+  /*30% { transform: translate(85.875vw, 0) rotate(0); }
   33% { transform: translate(85.875vw, 0) rotate(90deg); }
   42% { transform: translate(85.875vw, 38.125vw) rotate(90deg); }
   45% { transform: translate(85.875vw, 38.125vw) rotate(180deg); }
