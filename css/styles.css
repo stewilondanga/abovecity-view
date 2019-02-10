@@ -208,14 +208,14 @@ body {
   }
 }
 
-/*.buildings {
+.buildings {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   padding: 0.5vw;
 }
 
-.building {
+/*.building {
   position: relative;
   float: left;
   width: 10vw;
