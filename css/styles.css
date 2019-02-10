@@ -165,10 +165,12 @@ body {
     transform: translate(1.75vw, 0) rotate(270deg);
   }
 
-  /*100% { transform: translate(1.75vw, 0) rotate(360deg); }
+  100% {
+    transform: translate(1.75vw, 0) rotate(360deg);
+  }
 }
 
-@keyframes drive-wide {
+/*@keyframes drive-wide {
   0% { transform: translate(1.875vw, 0) rotate(0); }
   30% { transform: translate(85.875vw, 0) rotate(0); }
   33% { transform: translate(85.875vw, 0) rotate(90deg); }
