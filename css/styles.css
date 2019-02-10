@@ -79,12 +79,12 @@ body {
   left: -7.5vw;
 }
 
-/*.intersection:nth-child(2) {
+.intersection:nth-child(2) {
   top: -7.5vw;
   right: -7.5vw;
 }
 
-.intersection:nth-child(3) {
+/*.intersection:nth-child(3) {
   bottom: -7.5vw;
   left: -7.5vw;
 }
